@@ -33,8 +33,6 @@ The feature selection techniques used are:
 
 ![320359513-4a33bbf5-aa3d-44e0-885f-862bbc8535b0](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/0a41b7bf-a50f-48a4-a89b-60f73a1d12af)
 
-![320359513-4a33bbf5-aa3d-44e0-885f-862bbc8535b0](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/0ec62bff-f712-449c-8521-2ad196048ac4)
-
 ![320359551-49956ce8-30ef-49a5-9373-684c97e50dd1](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/b97979e0-9264-49fe-be83-e46efdf70014)
 
 ![320359618-00c4fce9-72b3-4825-9684-a530b9bb5b03](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/f3e0ebcc-a696-4651-bb6d-8c40fe155017)
