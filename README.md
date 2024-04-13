@@ -1,4 +1,4 @@
-# EXNO:4-DS
+![320359945-83cbfc9d-5fc7-49d9-abed-1de6f5e9794c](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/6574cef4-ec31-41d9-a2e5-0ca51988bd6e)# EXNO:4-DS
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
@@ -41,8 +41,11 @@ The feature selection techniques used are:
 
 ![320359829-990e0bbe-fcd0-45a3-a3bc-9d99a496b847](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/d0bd8e59-f39c-41ba-96ef-6209b75c3949)
 
+![320359891-069e2e11-8fdb-472c-b080-abc17afb3637](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/d3d644be-3ba7-4883-9e11-439c95ce036f)
 
+![320359945-83cbfc9d-5fc7-49d9-abed-1de6f5e9794c](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/bbe66248-df84-46de-9641-5a0f6e1403bf)
 
+![320360023-9ab2c4a5-332f-4b83-bf85-d4a3812b0e6c](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/1790d535-3b16-4a31-8449-2a5475108540)
 
 
 
@@ -52,4 +55,4 @@ The feature selection techniques used are:
 
        
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+       Thus the program to read the given data and perform Feature Scaling and Feature Selection process and save the data to a file is been executed.
