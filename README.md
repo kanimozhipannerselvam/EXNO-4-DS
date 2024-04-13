@@ -24,6 +24,35 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+
+       ![320359396-c0fcc85b-1a64-42a1-b695-a77acc191a1c](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/a58fef1d-b294-43fb-86f4-2a6db99fb261)
+
+![320359396-c0fcc85b-1a64-42a1-b695-a77acc191a1c](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/c45f3ae7-ea66-451d-af8c-32177f05ecc0)
+
+![320359458-3c511b62-cf5b-4ed4-aafd-7e98ef34adb1](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/ba464db8-d6ae-4f4d-8087-18493d942836)
+
+![320359513-4a33bbf5-aa3d-44e0-885f-862bbc8535b0](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/0a41b7bf-a50f-48a4-a89b-60f73a1d12af)
+
+![320359513-4a33bbf5-aa3d-44e0-885f-862bbc8535b0](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/0ec62bff-f712-449c-8521-2ad196048ac4)
+
+![320359551-49956ce8-30ef-49a5-9373-684c97e50dd1](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/9c934bef-465d-49d9-99a0-44ef98e738ae)
+
+![320359551-49956ce8-30ef-49a5-9373-684c97e50dd1](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/b97979e0-9264-49fe-be83-e46efdf70014)
+
+![320359618-00c4fce9-72b3-4825-9684-a530b9bb5b03](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/f3e0ebcc-a696-4651-bb6d-8c40fe155017)
+
+![320359687-fedaf993-1b6f-4303-9411-5fce5446dc56](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/6c3e6b88-af64-4cbc-b790-0e60b9f7be8d)
+
+
+
+
+
+
+
+
+
+
+
+       
 # RESULT:
        # INCLUDE YOUR RESULT HERE
