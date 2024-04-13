@@ -1,7 +1,4 @@
 
-
-
-![320359945-83cbfc9d-5fc7-49d9-abed-1de6f5e9794c](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/6574cef4-ec31-41d9-a2e5-0ca51988bd6e)# EXNO:4-DS
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
@@ -62,13 +59,21 @@ The feature selection techniques used are:
 
 ![320360666-c3870d08-7ae6-4a25-a83f-17e242e86a76](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/ac1eddca-74bc-4514-83bb-679f3dc6d422)
 
-**Feature Selection**
+# **Feature Selection**
+
 ![320360875-44e6c707-522d-46c2-8dc9-ead0ec8da4d7](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/bfd17dc5-da0e-4759-b0d2-36f5e9614eee)
 
 ![320360980-2d3622e5-a59e-493f-8e84-d7138ccfa65b](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/ed13d33c-e1f4-4c8f-b6a1-459642f52a91)
 
 ![320361039-e4b7b9ad-9450-451c-9e50-59ac46f9d5bd](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/3461e5b5-3e53-4ed2-9807-daf73b759a26)
 
+![320364838-6a99cb65-069e-49aa-8100-7b56f3973fce](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/6e8e0e4d-53bb-460d-adf2-1d16f4d98e52)
+
+![320364941-e39261c9-fcf4-4aaa-9abb-9ceb0b1d5bed](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/dc72a7be-7dfd-4b02-9390-6187a25f927c)
+
+![320365473-01b6908a-22f6-4ffe-9a6a-a066ee406cad](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/9466eedd-edd4-4b2f-bbe8-9e8c8e0efed9)
+
+![320366296-bd40332c-e997-4618-82e1-f33d78ee5af9](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/55bda2f1-7440-4df4-bba1-035a7213282f)
 
 
 
