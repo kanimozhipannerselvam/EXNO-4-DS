@@ -35,8 +35,6 @@ The feature selection techniques used are:
 
 ![320359513-4a33bbf5-aa3d-44e0-885f-862bbc8535b0](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/0ec62bff-f712-449c-8521-2ad196048ac4)
 
-![320359551-49956ce8-30ef-49a5-9373-684c97e50dd1](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/6520be94-94e7-461c-8818-ffe4b9f3b686)
-
 ![320359551-49956ce8-30ef-49a5-9373-684c97e50dd1](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/9c934bef-465d-49d9-99a0-44ef98e738ae)
 
 ![320359551-49956ce8-30ef-49a5-9373-684c97e50dd1](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/b97979e0-9264-49fe-be83-e46efdf70014)
@@ -45,6 +43,7 @@ The feature selection techniques used are:
 
 ![320359687-fedaf993-1b6f-4303-9411-5fce5446dc56](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/6c3e6b88-af64-4cbc-b790-0e60b9f7be8d)
 
+![320359829-990e0bbe-fcd0-45a3-a3bc-9d99a496b847](https://github.com/kanimozhipannerselvam/EXNO-4-DS/assets/119476060/d0bd8e59-f39c-41ba-96ef-6209b75c3949)
 
 
 
